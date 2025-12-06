@@ -1,0 +1,5 @@
+{
+  "name": "Secret Santa Exchange",
+  "description": "A festive, persistent Secret Santa gift assignment application with a fun customization flow.",
+  "requestFramePermissions": []
+}
